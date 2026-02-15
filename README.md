@@ -1,4 +1,4 @@
-# Water Shop Analytics Project
+# **Water Shop Analytics Project**
 ![2204 i607 002 S m012 c12 people drinking water composition isometric](https://github.com/user-attachments/assets/fbb50cf2-ba74-42d5-953b-f1b8a402a05c)
 
 
@@ -15,7 +15,7 @@ Main aim was to understand how dataset, annotation and YOLO training works step 
 
 ---
 
-## What I did in this project
+## **What I did in this project**
 
 - Took few frames from CCTV video  
 - Selected useful images manually  
@@ -31,7 +31,7 @@ Goal was just to confirm pipeline is working end to end.
 
 ---
 
-## Folder structure
+## **Folder structure**
 
 Water_Shop_Analytics  
 │  
@@ -47,14 +47,14 @@ Water_Shop_Analytics
 
 ---
 
-## Classes used
+## **Classes used**
 
 0 = person  
 1 = water_can  
 
 ---
 
-## Tools used
+## **Tools used**
 
 - Python  
 - Google Colab  
@@ -65,7 +65,7 @@ Water_Shop_Analytics
 
 ---
 
-## Training details
+## **Training details**
 
 - Model used: YOLOv8n  
 - Images: small sample images  
@@ -78,7 +78,7 @@ This stage was only for pipeline verification.
 
 ---
 
-## Future work
+## **Future work**
 
 - Add more images  
 - Train model properly  
@@ -88,7 +88,7 @@ This stage was only for pipeline verification.
 
 ---
 
-## About me
+## **About me**
 
 Sneha Devare  
 BSc Computer Science (Data Science & Analytics)
